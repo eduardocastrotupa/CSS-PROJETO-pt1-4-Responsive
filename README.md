@@ -5,5 +5,13 @@
 <h2>Tecnologias utilizadas</h2>
 <br>
 -HTML
+<br>
 -CSS
+<br>
+-Responsividade
+<br>
+<h2> Imaguem da pagina principal</h2>
 <img src="https://github.com/eduardocastrotupa/CSS-PROJETO-pt1-4-Responsive/blob/main/img/capa-projeto-web.jpg?raw=true"/>
+<br>
+<h2>Imaguem usando Mobile</h2>
+<img src="https://github.com/eduardocastrotupa/CSS-PROJETO-pt1-4-Responsive/blob/main/img/capa-projeto-mobile.jpg?raw=true"/>
