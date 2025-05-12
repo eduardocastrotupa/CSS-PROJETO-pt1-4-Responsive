@@ -10,8 +10,8 @@
 <br>
 -Responsividade
 <br>
-<h2> Imaguem Principal</h2>
+<h2> Imagem Principal</h2>
 <img src="https://github.com/eduardocastrotupa/CSS-PROJETO-pt1-4-Responsive/blob/main/img/capa-projeto-web.jpg?raw=true"/>
 <br>
-<h2>Imaguem Mobile</h2>
+<h2>Imagem Mobile</h2>
 <img src="https://github.com/eduardocastrotupa/CSS-PROJETO-pt1-4-Responsive/blob/main/img/capa-projeto-mobile.jpg?raw=true"/>
